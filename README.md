@@ -32,6 +32,7 @@ console.log(hanoi(5)); // 31
 console.log(hanoi(6)); // 63
 console.log(hanoi(7)); // 127
 console.log(hanoi(8)); // 255
+console.log(hanoi(9)); // 511
 ```
 
 # Test

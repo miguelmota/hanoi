@@ -1,10 +1,10 @@
-var test = require('tape');
-var hanoi = require('../hanoi');
+const test = require('tape');
+const hanoi = require('../hanoi');
 
 test('hanoi', function (t) {
   'use strict';
 
-  t.plan(22);
+  t.plan(23);
 
   t.equal(hanoi(0), 0);
   t.equal(hanoi(1), 1);
@@ -15,6 +15,7 @@ test('hanoi', function (t) {
   t.equal(hanoi(6), 63);
   t.equal(hanoi(7), 127);
   t.equal(hanoi(8), 255);
+  t.equal(hanoi(9), 511);
   t.equal(hanoi(Number(4)), 15);
   t.equal(hanoi(new Number(4)), 15);
   t.equal(hanoi(Infinity), Infinity);
