@@ -6,7 +6,7 @@ The Towers of Hanoi is a mathematical puzzle whose solution illustrates recursio
 
 [![Towers of Hanoi alogrithm](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
-<sup><sub>[source](https://en.wikipedia.org/wiki/Tower_of_Hanoi)</sub></sup>
+<sup>[source](https://en.wikipedia.org/wiki/Tower_of_Hanoi)</sup>
 
 # Install
 
