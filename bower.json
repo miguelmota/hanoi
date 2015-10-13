@@ -1,0 +1,24 @@
+{
+  "name": "hanoi",
+  "main": "hanoi.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miguelmota/hanoi",
+  "authors": [
+    "Miguel Mota <miguelmota2@gmail.com>"
+  ],
+  "description": "Tower of Hanoi algorithm for finding the smallest number of steps to move the stack.",
+  "keywords": [
+    "towers",
+    "hanoi",
+    "algorithm",
+    "recursion"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
