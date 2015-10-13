@@ -2,7 +2,7 @@
 
 > Tower of Hanoi algorithm for finding the smallest number of steps to move the stack.
 
-The Towers of Hanoi is a mathematical puzzle whose solution illustrates recursion. There are three pegs which can hold stacks of disks of different diameters. A larger disk may never be stacked on top of a smaller. Starting with `n` disks on one peg, they must be moved to another peg one at a time. - [Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science)#Towers_of_Hanoi)
+The Towers of Hanoi is a mathematical puzzle whose solution illustrates recursion. There are three pegs which can hold stacks of disks of different diameters. A larger disk may never be stacked on top of a smaller. Starting with `n` disks on one peg, they must be moved to another peg one at a time. — [Wikipedia](https://en.wikipedia.org/wiki/Recursion_(computer_science)#Towers_of_Hanoi)
 
 [![Towers of Hanoi alogrithm](https://upload.wikimedia.org/wikipedia/commons/6/60/Tower_of_Hanoi_4.gif)](https://en.wikipedia.org/wiki/Tower_of_Hanoi)
 
