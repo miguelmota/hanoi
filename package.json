@@ -1,6 +1,6 @@
 {
   "name": "hanoi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tower of Hanoi algorithm for finding the smallest number of steps to move the stack.",
   "main": "hanoi.js",
   "directories": {

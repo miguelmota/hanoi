@@ -14,7 +14,7 @@
       return Infinity;
     }
 
-    return n === 1 ? 1 : 2 * hanoi(n - 1) + 1;
+    return Math.pow(2, n)-1;
   }
 
   if (typeof exports !== 'undefined') {

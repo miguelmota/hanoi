@@ -4,7 +4,7 @@ const hanoi = require('../hanoi');
 test('hanoi', function (t) {
   'use strict';
 
-  t.plan(23);
+  t.plan(24);
 
   t.equal(hanoi(0), 0);
   t.equal(hanoi(1), 1);
@@ -29,4 +29,6 @@ test('hanoi', function (t) {
   t.equal(hanoi(function(){}), 0);
   t.equal(hanoi(true), 0);
   t.equal(hanoi(NaN), 0);
+  // max
+  t.equal(hanoi(1024), Infinity);
 });
